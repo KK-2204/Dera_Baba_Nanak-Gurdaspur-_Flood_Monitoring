@@ -5,7 +5,7 @@ Flood damage assessment of paddy (rice) cropland in the Dera Baba Nanak block, G
 ## Files
 
 1. **`Gurdaspur_Flood_Detection.js`** — Google Earth Engine script covering the full pipeline: AOI setup, 3-date NDVI (pre-flood / peak-flood / recovery), NDWI, vegetation loss change detection, and two independent SAR (Sentinel-1) flood detection methods with a full statistical comparison.
-2. **`CNN_Land_Classification_Gurdaspur.ipynb`** — Cross-region test of the MobileNetV2 + EuroSAT land cover classifier originally trained and validated in the Naugarh project, re-applied here unchanged to test whether its limitations generalize.
+2. **`CNN_Land_Classification_Dera_Baba_Nanak(Gurdaspur).ipynb`** — Cross-region test of the MobileNetV2 + EuroSAT land cover classifier originally trained and validated in the Naugarh project, re-applied here unchanged to test whether its limitations generalize.
 
 ## Key Findings
 
